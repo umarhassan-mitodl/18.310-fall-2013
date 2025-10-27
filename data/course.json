@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "34ebb76f-72dc-ccd3-be78-0d93a500a3ce",
+  "instructors": {
+    "content": [
+      "e143d5dd-8661-046e-870e-c6a4adb063a1",
+      "4ceefbf4-d227-9cc9-e7bf-881ed167cc62",
+      "45bb0455-4a6e-4163-131a-845d4dc79563",
+      "1e2672a2-30ad-b2aa-b857-67d9fbfea818"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f6300cde-552a-98c2-2884-c27ecca1b72e",
+    "website": "18-310-principles-of-discrete-applied-mathematics-fall-2013"
+  },
+  "course_title": "Principles of Discrete Applied Mathematics",
+  "course_description": "This course is an introduction to discrete applied mathematics. Topics include probability, counting, linear programming, number-theoretic algorithms, sorting, data compression, and error-correcting codes. This is a {{% resource_link \"b1f55d17-ec70-47bc-bf94-3efae513f80d\" \"Communication Intensive in the Major\" %}} (CI-M) course, and thus includes a writing component.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.310",
+  "course_image_thumbnail": {
+    "content": "6ca30d98-de7f-81f9-2f4c-6422df8a44c5",
+    "website": "18-310-principles-of-discrete-applied-mathematics-fall-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "03e09452-2ab2-44fd-bd38-904ad8cfadbc",
+  "site_short_id": "18.310-fall-2013",
+  "site_url_path": "courses/18-310-principles-of-discrete-applied-mathematics-fall-2013",
+  "title": "Course Metadata"
+}
