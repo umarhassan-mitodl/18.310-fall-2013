@@ -1,0 +1,48 @@
+leftnav:
+- identifier: 3e5e4a5c-515e-3c68-e4e8-002cb2270fda
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 25a79765-9be8-d955-c699-c42e26d36b68
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 9cd54542-9af7-b8e5-1429-ebe268c359eb
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: d67fd7d1-4643-b70e-c486-643c40f64013
+  name: Addressing Communication in Mathematics through Recitations
+  pageRef: /pages/instructor-insights/developing-the-recitations
+  parent: 9cd54542-9af7-b8e5-1429-ebe268c359eb
+  weight: 40
+- identifier: ed24c1d7-81e2-537b-d5c0-67e77d643bca
+  name: Creating the Term Paper Assignment
+  pageRef: /pages/instructor-insights/creating-the-term-paper-assignment
+  parent: 9cd54542-9af7-b8e5-1429-ebe268c359eb
+  weight: 50
+- identifier: 3156858d-7740-7520-8e55-2dbbe37cfe24
+  name: Assessing Students' Writing
+  pageRef: /pages/instructor-insights/assessing-students-writing
+  parent: 9cd54542-9af7-b8e5-1429-ebe268c359eb
+  weight: 60
+- identifier: 9a763fe0-e59f-409f-b79a-803366095f7c
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 70
+- identifier: 158af2ca-df0b-75a7-a0ac-c3d65c8e80a1
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 80
+- identifier: da91eead-061b-bf72-403e-0541333c7a07
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: aceb9a38-5afa-b784-4f29-eae4479fb028
+  name: Exams
+  pageRef: /pages/exams
+  weight: 100
+- identifier: 905d4790-2adb-1c3c-4fce-7cbc62f33659
+  name: Writing Resources
+  pageRef: /pages/writing-resources
+  weight: 110
